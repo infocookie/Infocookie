@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+# ±êÇãºê ºí·Î±× Jekyll ½ÃÀÛ
 
-You can use the [editor on GitHub](https://github.com/infocookie/infocookie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## ÀúÀÇ ºí·Î±×¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+È£±â½É¿¡ °øºÎ Â÷¿ø¿¡¼­ ÇÑ¹ø ¸¸µé¾î º» ÆäÀÌÁö ÀÔ´Ï´Ù.
+Á¦°¡ º¸±â À§ÇÑ ¸Ş¸ğ¸¦ Á¤¸®ÇÏ´Â °ÍÀÌ ¸ñÇ¥ÀÎµ¥, º»ÀÎÀÌ Âü°íÇÒ¸¸ÇÑ Á¤º¸´Â ´©±º°¡¿¡°Ôµµ À¯¿ëÇÏ¸®¶ó »ı°¢µË´Ï´Ù.
 
-### Markdown
+### Markdown(¸¶Å©´Ù¿î)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ÀÌ¹øÀÌ ¸¶Å©´Ù¿îÀ¸·Î ÆäÀÌÁö¸¦ ÀÛ¼ºÇØº¸´Â Ã¹°æÇè ÀÔ´Ï´Ù.
 
 ```markdown
-Syntax highlighted code block
+°¡³ª´Ù¶ó¸¶¹Ù»ç
 
 # Header 1
 ## Header 2
@@ -18,20 +19,17 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+
+
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**BoldµÎ²®°Ô** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+<'''>ÀÌ°É ¾²¸é ¾È¿¡¼­´Â ¸¶Å©´Ù¿îÀÌ Àû¿ëµÇÁö ¾Ê³ª º¸±º¿ä.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Èï¹Ì·Î¿î µµÀü
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/infocookie/infocookie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and weâ€™ll help you sort it out.
+¾ğÁ¦±îÁö °è¼Ó ÇÒÁö´Â ¸ğ¸£°ÚÁö¸¸ ¸¶Å©´Ù¿îÀ¸·Î ±Û°ú »ı°¢À» Á¤¸®ÇÏ´Â ½À°üÀ» µé¿©³õÀ¸¸é ÁÁÀ» °Í °°¾Æ¼­ ½ÃÀÛÇÏ°Ô µÆ´Âµ¥ ¾ÕÀ¸·Î À¯¿ëÇÑ ½Ã°£ÀÌ µÉ °Í °°½À´Ï´Ù.
