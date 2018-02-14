@@ -14,19 +14,20 @@ body {
   background:inline-image('checker.png') fixed;
 }
 
-gtop
-{
-  margin-top : 0px;
-  margin-bottom : 10px;
-  text-align:center;
-  {
+.gtop{
+padding-top:0px;
+padding-bottom:10px;
+vertical-align: middle;
+text-align: center;
+}
 
-gbottom
-{
-  margin-top : 5px;
-  margin-bottom : 5px;
-  text-align:center;
-  {
+
+.gbottom{
+padding-top:0px;
+padding-bottom:10px;
+vertical-align: middle;
+text-align: center;
+}
     
 .wrapper {
   width:640px;
