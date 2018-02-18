@@ -14,3 +14,6 @@ compress_html:
   blanklines: false
   profile: true
   startings: [html, head, body]
+
+future: true
+published: true
