@@ -1,1 +1,5 @@
 theme: jekyll-theme-modernist
+plugins: [jekyll-paginate, jekyll-seo-tag]
+permalink: /:title/
+plugins: 
+  - jekyll-sitemap
