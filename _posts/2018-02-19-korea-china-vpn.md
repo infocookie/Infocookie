@@ -114,7 +114,7 @@ Shadowsocks(패킷 위장 툴) + VPN을 통해서 탈출구를 마련하고자 �
     * 무제한이며 토렌트 사용에도 제한이 없다.
     * 동시 3대기기 접속 허용
     * 가장 좋지만 가격도 가장 높음
-    * 할인 코드 사용하면 가성비도 좋다.
+    * 할인 코드(하단 링크 참고) 사용하면 가성비도 좋다.
 * Nord VPN
     * 유명하지만 접속성공률에 있어 express vpn 보다 많이 떨어지는듯.
     * 속도 차이가 많이 남.
@@ -131,6 +131,6 @@ Shadowsocks(패킷 위장 툴) + VPN을 통해서 탈출구를 마련하고자 �
 
 **결론2 사실상 지금 중국에서 안정적이고 빠르게 쓸 수 있는 것은 ExpressVPN이 유일하다고 볼 수 있습니다.**
 
-link : [유료 VPN 추천 리뷰 및 비교](https://vpnvsvpn.com/vpn/) 이곳으로 가면 각종 VPN 리뷰와 '할인코드'가 있는데 상세한 리뷰를 읽어보고 선택하시면 좋을 것 같습니다.
+★ Link : [유료 VPN 추천 리뷰 및 비교](https://vpnvsvpn.com/vpn/) 이곳으로 가면 각종 VPN 리뷰와 '할인코드'가 있는데 상세한 리뷰를 읽어보고 선택하시면 좋을 것 같습니다.
 
-[중국 vpn 참고글](https://vpnvsvpn.com/middle-east-china-vpn/ "2018 중동, 중국 VPN 추천 현지인 인기 1위")
+★ Link2 : [중국 vpn 참고글](https://vpnvsvpn.com/middle-east-china-vpn/ "2018 중동, 중국 VPN 추천 현지인 인기 1위")
