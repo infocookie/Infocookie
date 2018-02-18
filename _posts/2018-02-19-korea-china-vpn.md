@@ -133,4 +133,4 @@ Shadowsocks(패킷 위장 툴) + VPN을 통해서 탈출구를 마련하고자 �
 
 [유료 VPN 추천 리뷰 및 비교] (https://vpnvsvpn.com/vpn/) 이곳으로 가면 각종 VPN 리뷰와 '할인코드'가 있는데 상세한 리뷰를 읽어보고 선택하시면 좋을 것 같습니다.
 
-[중국 vpn 참고글] (https://vpnvsvpn.com/middle-east-china-vpn/)
+(https://vpnvsvpn.com/middle-east-china-vpn/ "중국 vpn 참고글")
