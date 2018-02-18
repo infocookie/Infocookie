@@ -131,6 +131,6 @@ Shadowsocks(패킷 위장 툴) + VPN을 통해서 탈출구를 마련하고자 �
 
 **결론2 사실상 지금 중국에서 안정적이고 빠르게 쓸 수 있는 것은 ExpressVPN이 유일하다고 볼 수 있습니다.**
 
-[유료 VPN 추천 리뷰 및 비교] (https://vpnvsvpn.com/vpn/) 이곳으로 가면 각종 VPN 리뷰와 '할인코드'가 있는데 상세한 리뷰를 읽어보고 선택하시면 좋을 것 같습니다.
+[유료 VPN 추천 리뷰 및 비교](https://vpnvsvpn.com/vpn/) 이곳으로 가면 각종 VPN 리뷰와 '할인코드'가 있는데 상세한 리뷰를 읽어보고 선택하시면 좋을 것 같습니다.
 
-(https://vpnvsvpn.com/middle-east-china-vpn/ "중국 vpn 참고글")
+[중국 vpn 참고글](https://vpnvsvpn.com/middle-east-china-vpn/ "2018 중동, 중국 VPN 추천 현지인 인기 1위")
