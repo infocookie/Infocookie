@@ -1,6 +1,6 @@
 theme: jekyll-theme-modernist
 plugins: [jekyll-paginate, jekyll-seo-tag]
-url: "https://infocookie.github.io/"
+url: "https://infocookie.github.io"
 baseurl: "/"
 permalink: /:title/
 plugins: 
