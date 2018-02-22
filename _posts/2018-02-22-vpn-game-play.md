@@ -32,4 +32,6 @@ description : 안드로이드 및 아이폰으로 모바일 게임을 하시는�
 ## VPN은 뭘로 해야 하나?
 이번에 듀랑고 때문에 해외접속자들이 엄청나게 늘어나면서 많은 질문,답변글들이 상당히 많이 생겼는데 무료 VPN은 대부분 튕겨버리고 유료 VPN 중에서도 되는게 있고 안되는게 있었습니다. 아마도 VPN 업체의 IP 관리에 따라 갈리지 않았나 싶네요.
  [Gamedot 듀랑고 vpn관련 토론글](https://durango.gamedot.org/?mid=board&target=view&board=freeboard&page=1&post=201) 이 글의 댓글들을 참고해보시면 좋을 듯 합니다.
+ 
+ExpresVPN이 확실히 좋은 접속률을 보입니다. 저기에는 나와있지 않지만 NordVPN도 개인적으로 꽤나 괜찮았습니다. ExpressVPN은 현재 세계 1위로 알려져 있는데요. 한글로 된 리뷰는 [Express VPN 속도,후기](http://ggulmoney.com/express-vpn/)이 글을 보시면 좋습니다.
 
