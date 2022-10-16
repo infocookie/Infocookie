@@ -1,11 +1,11 @@
 ---
+layout: default
+title: 토렌트 다운로드 기록남기는 iknowwhatyoudownload.com 삭제 차단하기
 date: "2022-10-17 07:00"
 description: iknowwhatyoudownload.com 이 사이트는 한국 유저 뿐 아니라 전
   세계 모든 사람들이 토렌트를 통해 다운로드 업로드 한 내역을 사이트에
   공개적으로 기록을 남깁니다. IP 주소 기반인데 기분나쁘니 차단 및 삭제를
   해봅시다.
-layout: default
-title: 토렌트 다운로드 기록남기는 iknowwhatyoudownload.com 삭제 차단하기
 ---
 
 # iknowwhatyoudownload.com 한국 유저 기록 삭제 및 차단
