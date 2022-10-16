@@ -1,5 +1,16 @@
 @import "rouge-base16-dark";
 
+@font-face {
+	font-family: 'Noto Sans KR';
+	src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&display=swap');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: 'Noto Sans KR';
+}
+
 html {
   background:#6C7989;
   background: #6C7989 linear_gradient(#6C7989, #434B55) fixed;
