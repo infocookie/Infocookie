@@ -1,65 +1,16 @@
-<!doctype html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% include meta_tags/base.html %}
+        {% include meta_tags/sharing.html %}
 
-<html lang="{{ site.lang | default: "kr-KO" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        {% include externals/styling.html %}
+    </head>
 
-{% seo %}
-<title>
-   {%if page.title %}
-       {{ page.title }}
-   {% else %}
-       {{ site.title }}
-   {% endif %}
-</title>
+    <body>
+        <div class="wrapper">
+            {% include header.html %}
 
-
-<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
-
-
-
-<meta property="og:locale" content="ko_KR">
-<meta property="og:type" content="article">
-<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:image" content="{{ site.url }}/thumbs/{{ page.image }}" />
-<meta property="og:site_name" content="infocookie">
-<meta property="article:publisher" content="https://infocookie.github.io/" />
-<meta property="article:author" content="https://infocookie.github.io/" />
-<meta property="article:published_time" content="{{ page.date }}" />
-<meta property="og:description" content="IT,컴퓨터,인터넷,금융,사회전반적 이슈에 대해서 간략하고 읽기편하게 정리하는 블로그 입니다.">
-
-<link rel="canonical" href="{{ page.url | prepend: site.url }}">
-   
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    
-    <meta name="google-site-verification" content="8A7St7HxrcR_dHUqun0feZASIG3FN45rjYe-xIKOqUw" />
-    <meta name="naver-site-verification" content="79861341471e8a48bed76620c14eb182d42a7ebc"/>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-2711289367968306",
-          enable_page_level_ads: true
-     });
-</script>
-  </head>
-  <body>
-    <div class="wrapper">
-      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% endif %}
- 
-      </header>
-      <section>
 <div class="gtop">
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- infocookie-top -->
@@ -72,10 +23,10 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
         </div>
-      {{ content }}
 
-      </section>
-      
+            {{ content }}
+            
+                 
       <div class="gbottom">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- infocookie-bottom -->
@@ -88,28 +39,10 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
       </div>
-      
-      
-    </div>
-    <footer>
-    {% if site.github.is_project_page %}
-      <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-    {% endif %}
-     
-    </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+            
+        </div>
 
-    {% if site.google_analytics %}
- <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114192854-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-114192854-1');
-</script>
-
-    {% endif %}
-  </body>
+        {% include externals/scripting.html %}
+        {% include externals/google_analytics.html %}
+    </body>
 </html>
