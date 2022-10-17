@@ -1,9 +1,5 @@
 @import "rouge-base16-dark";
 
-.markdown-body {
-  font-family: 'Noto Sans KR', serif;
-}
-
 
 html {
   background:#6C7989;
@@ -13,7 +9,7 @@ html {
 body {
   padding:50px 0;
   margin:0;
-  font:15px/1.5 "Noto Sans KR", Arial, sans-serif;
+  font:16px/1.6 "Noto Sans KR", Arial, sans-serif;
   color:#555;
   font-weight:300;
   background:inline-image('checker.png') fixed;
@@ -112,7 +108,7 @@ header {
     z-index:1;
     right:20px;
     top:20px;
-    height:38px;
+    height:28px;
     padding:1px 0;
     background:#5198DF;
     background: linear_gradient(#77B9FB, #3782CD);
@@ -137,7 +133,7 @@ header {
       width:79px;
       float:left;
       border-right:1px solid #3A7CBE;
-      height:38px;
+      height:28px;
       
       &.single {
         border:none;
@@ -194,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:30px 0 20px;
 }
 
 h1, h2, h3 {
@@ -207,6 +203,7 @@ h1 {
 
 h2 {
   color:#393939;
+
 }
 
 h3, h4, h5, h6 {
