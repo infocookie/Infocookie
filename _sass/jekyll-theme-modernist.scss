@@ -3,14 +3,14 @@
 
 html {
   background:#6C7989;
-
+  background: #6C7989 linear-gradient(#6C7989, #434B55) fixed;
   height: 100%;
 }
 
 body {
   padding:50px 0;
   margin:0;
-  font:16px/1.6 Lato, "Pretendard", Arial, sans-serif;
+  font:16px/1.6 "Pretendard", Arial, sans-serif;
   color:#555;
   font-weight:400;
   background:url('../images/checker.png') fixed;
@@ -163,7 +163,7 @@ section {
   padding:15px 20px;
   font-size:15px;
   border-top:1px solid #fff;
-  background: linear-gradient(#fafafa, #DEDEDE 700px);
+
   border-radius: 0 0 8px 8px;
   position:relative;
 }
