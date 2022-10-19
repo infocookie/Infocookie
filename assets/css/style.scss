@@ -2,6 +2,9 @@
 ---
 
 @import "jekyll-theme-modernist";
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css');
 body {
   font-family: 'pretendard', serif;
+  font-size : 14px;
+
+}
