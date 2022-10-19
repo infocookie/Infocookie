@@ -1,11 +1,14 @@
 remote_theme: pages-themes/modernist@v0.2.0
 # theme: jekyll-theme-modernist
-plugins: [jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-remote-theme, jekyll-sitemap]
 url: "https://infocookie.github.io"
 permalink: /:title/
 plugins: 
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
 
 
 
