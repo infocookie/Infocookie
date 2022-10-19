@@ -8,8 +8,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-seo-tag
-title: [쿠키처럼 간단하고 빠르게 냠냠할 수 있는 정보 블로그]
-description: [네트워크,윈도우,MacOS,VPN 등 저의 관심분야에 대한 지식과 정보를 요약해서 여러분들이 한입에 먹기 쉽게 구워내는게 이 블로그의 목표 입니다.]
+title: [쿠키같은 정보]
+description: [쉽게 먹기 좋은 정보 요약]
 
 
 
