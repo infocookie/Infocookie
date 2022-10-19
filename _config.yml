@@ -8,7 +8,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-seo-tag
-title: [CookieInfo]
+title: [InfoCookie]
 description: [쿠키처럼 쉽게 먹기 좋은 정보 요약]
 
 
