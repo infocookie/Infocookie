@@ -1,9 +1,13 @@
-theme: jekyll-theme-modernist
+remote_theme: pages-themes/modernist@v0.2.0
+# theme: jekyll-theme-modernist
 plugins: [jekyll-paginate, jekyll-seo-tag]
 url: "https://infocookie.github.io"
 permalink: /:title/
 plugins: 
   - jekyll-sitemap
+  - jekyll-remote-theme
+
+
 
 compress_html:
   clippings: all
