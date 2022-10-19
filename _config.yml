@@ -3,7 +3,7 @@ title: Infocookie.github.io
 description: >
 즐거운 글쓰기
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "infocookie.github.io" # the subpath of your site, e.g. /blog/
 url: "https://infocookie.github.io" # the base hostname & protocol for your site
 
 author:
