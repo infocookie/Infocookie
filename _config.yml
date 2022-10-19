@@ -9,7 +9,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 title: [InfoCookie]
-description: [쿠키처럼 쉽게 먹기 좋은 정보 요약]
+description: [쿠키처럼 먹기 쉽게 요약된 정보들]
 
 
 
