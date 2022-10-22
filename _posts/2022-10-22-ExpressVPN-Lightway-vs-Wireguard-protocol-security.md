@@ -5,6 +5,7 @@ layout: default
 title: ExpressVPN Lightway vs Wireguard 프로토콜 추천 보안성 비교
 ---
 
+
 # ExpressVPN은 왜 와이어가드 대신 라이트웨이 프로토콜을 만들었을까?
 
 ## ExpressVPN의 LIghtway 프로토콜이란?
