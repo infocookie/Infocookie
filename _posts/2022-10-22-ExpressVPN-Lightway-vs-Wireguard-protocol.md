@@ -5,6 +5,8 @@ layout: default
 title: ExpressVPN Lightway vs Wireguard 프로토콜 추천 보안성 비교
 ---
 
+# ExpressVPN은 왜 와이어가드 대신 라이트웨이 프로토콜을 만들었을까?
+
 ## ExpressVPN의 LIghtway 프로토콜이란?
 
 ExpressVPN이 다른 회사들 처럼 Wireguard를 수정해서 사용하지 않고 처음부터 끝까지 구축한 VPN 프로토콜이 Lightway 입니다. 처음 이 프로토콜을 발표했을 때 많은 사용자가 왜 WireGuard를 채택하지 않고 독자적인 프로토콜을 제작했는지 궁금해했습니다.
