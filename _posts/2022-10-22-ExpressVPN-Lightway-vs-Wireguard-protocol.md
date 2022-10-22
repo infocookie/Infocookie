@@ -1,8 +1,8 @@
 ---
-layout : default
-title : ExpressVPN Lightway vs Wireguard 프로토콜 추천
-date : 2022-10-22 20:30
-description : 최고의 VPN 회사인 ExpressVPN은 Lightway라는 훌륭한 프로토콜을 자체적으로 제작했습니다. 이는 Wireguard라는 새로운 프로토콜이 대세가 되어가는게 현제 상황인데, 따라가느냐 리드하느냐의 기로에서 익스프레스VPN은 리드하길 선택한 것 같습니다.
+date: "2022-10-22 20:30"
+description: 최고의 VPN 회사인 ExpressVPN은 Lightway라는 훌륭한 프로토콜을 자체적으로 제작했습니다. 이는 Wireguard라는 새로운 프로토콜이 대세가 되어가는게 현제 상황인데, 따라가느냐 리드하느냐의 기로에서 익스프레스VPN은 리드하길 선택한 것 같습니다.
+layout: default
+title: ExpressVPN Lightway vs Wireguard 프로토콜 추천 보안성 비교
 ---
 
 ## ExpressVPN의 LIghtway 프로토콜이란?
